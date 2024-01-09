@@ -10,17 +10,27 @@
 提升學員在大型語言模型應用領域的專業能力
 共編教材及培訓學員可能成為大型語言模型講師*準備事項
 申請google 及chatgpt帳號,open ai api 儲值5美金以上*運作方式:參考課程資料https://hackmd.io/@Jj51EQCDSsS0C4aNUQtCtQ/r1qNO8dST
-課程內容本讀書會精選的李宏毅老師及  deeplearningaI分組選定主題(3-5個人),排定報告日期,搜集資料(相關paper,github,youtube影片,專案或應用),及分組報告,線上會議形式分享並由參與者給與報告者意見回饋,建議所有學員都事前看過本讀書會預計選用課程影片內容* 課程內容:
+課程內容本讀書會精選的李宏毅老師及  deeplearningaI分組選定主題(3-5個人),排定報告日期,搜集資料(相關paper,github,youtube影片,專案或應用),及分組報告,線上會議形式分享並由參與者給與報告者意見回饋,建議所有學員都事前看過本讀書會預計選用課程影片內容
+* 課程內容:
 
->1.[ 快速了解大型語言模型]( https://youtu.be/wG8-IUtqu-s?si=PE3Uhk96y6EOpgow)
+1. [快速了解大型語言模型](https://youtu.be/wG8-IUtqu-s?si=PE3Uhk96y6EOpgow)
 
->2. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
->3.[ Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
->4. [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
->5. [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
->6. [Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
->7. [Quality and Safety for LLM Applications](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/)
->8. [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)*專題實作:
+2.  [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+3. [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+
+4.  [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+    
+5.  [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+    
+6.  [Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+    
+7.  [Quality and Safety for LLM Applications](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/)
+    
+8.  [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+
+
+*專題實作:
 認領或自行提出相關LLM專題,每週review及討論 進度,期末競賽並安排發表:
 AI 未來，你準備好了嗎？
 加入大型語言模型python 專題實作線上共學社群，從基礎到實踐，提升您的專業技能
