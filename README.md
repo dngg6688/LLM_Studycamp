@@ -32,6 +32,8 @@
 
 以上課程在下面網址都有簡體中文版
  [簡體中文版網址](https://space.bilibili.com/3493138152819508/channel/seriesdetail?sid=3885298)
+
+
 *專題實作:
 認領或自行提出相關LLM專題,每週review及討論 進度,期末競賽並安排發表:
 AI 未來，你準備好了嗎？
